@@ -2,6 +2,8 @@
 
 > Indigo-Magenta flavoured Dark Theme for [Visual Studio Code](http://code.visualstudio.com).
 
+![Screenshot](https://raw.githubusercontent.com/k2maan/IndigoVSCodeDarkTheme/master/screenshot1.jpeg)
+![Screenshot](https://raw.githubusercontent.com/k2maan/IndigoVSCodeDarkTheme/master/screenshot2.jpeg)
 
 ## Install
 
