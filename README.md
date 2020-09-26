@@ -9,7 +9,7 @@ Search "Indigo Dark Theme" in the extensions tab of your VS Code amd install.
 
 ## Developer
 
-Developed and maintained by [k2maan](https://github.com/k2maan)
+> Developed and maintained by [k2maan](https://github.com/k2maan)
 
 ## Contributing
 
