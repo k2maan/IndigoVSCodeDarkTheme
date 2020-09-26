@@ -1,0 +1,49 @@
+{
+    "name": "indigo-dark-theme",
+    "displayName": "Indigo Dark Theme",
+    "description": "Indigo-Magenta flavoured Dark Theme.",
+    "publisher": "k2maan",
+    "author": {
+        "name": "k2maan"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/k2maan/IndigoVSCodeDarkTheme"
+    },
+    "bugs": {
+        "url": "https://github.com/k2maan/IndigoVSCodeDarkThemee/issues"
+    },
+    "galleryBanner": {
+        "color": "#1b1d29",
+        "theme": "dark"
+    },
+    "icon": "icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Indigo Theme",
+        "Dark Theme",
+        "Purple Theme",
+        "Magenta Theme",
+        "k2maan",
+        "pruple",
+        "pink",
+        "magenta",
+        "Dracula",
+        "Atom One"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Indigo Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/k2maan-color-theme.json"
+            }
+        ]
+    }
+}
