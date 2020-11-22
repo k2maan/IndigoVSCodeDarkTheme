@@ -2,6 +2,7 @@
 
 > Indigo-Magenta flavoured Dark Theme for [Visual Studio Code](http://code.visualstudio.com).
 
+
 ![screenshot1](https://user-images.githubusercontent.com/59442907/94340198-77451600-001d-11eb-8e76-726c7efb5dc4.jpg)
 
 
@@ -11,9 +12,11 @@
 
 Search "Indigo Dark Theme" in the extensions tab of your VS Code amd install.
 
+Or get it directly from the [VS Code Marketplace](marketplace.visualstudio.com/items?itemName=k2maan.indigo-dark-theme).
+
 ## Developer
 
-> Developed and maintained by [k2maan](https://github.com/k2maan)
+Developed and maintained by [k2maan](https://github.com/k2maan)
 
 ## Contributing
 
