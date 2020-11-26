@@ -12,7 +12,7 @@
 
 Search "Indigo Dark Theme" in the extensions tab of your VS Code amd install.
 
-Or get it directly from the [VS Code Marketplace](marketplace.visualstudio.com/items?itemName=k2maan.indigo-dark-theme).
+Or get it directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=k2maan.indigo-dark-theme).
 
 ## Developer
 
